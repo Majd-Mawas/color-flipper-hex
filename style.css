@@ -8,6 +8,7 @@
 
 body{
     background: #f1f5f8;
+    text-align:center;
 
 }
 
@@ -51,6 +52,7 @@ a:hover{
     font-size: 2.29em;
     /* height: 15.92em; */
     height: 100vh;
+    margin: 0 30px;
 }
 
 button{
